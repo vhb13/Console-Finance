@@ -11,6 +11,9 @@ The project consists of analysing the provided dataset for the following:
 4. The greatest increase in profits (date and amount) over the entire period.
 
 5. The greatest decrease in losses (date and amount) over the entire period.
+Please refer to the deployed web application by clicking on the [link] (https://vhb13.github.io/Console-Finance/). Below is a snapshot of the web application:
+(./snapshot.pnj) 
+
 ## Installation
 Not required
 ## Usage
